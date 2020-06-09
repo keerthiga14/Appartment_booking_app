@@ -1,0 +1,399 @@
+[
+    {
+      "productImagePath": {
+        "bedroom": [
+          null
+        ],
+        "other": null,
+        "exteriorView": "https://s3.ap-south-1.amazonaws.com/sigmatenant/1bRLxKiEOhbbtFVp5chA5WyjiVeYpyh2/2019-04-19T18-32-51.632ZWhatsApp Image 2019-04-18 at 12.01.57 AM.jpeg",
+        "livingRoom": null,
+        "kitchen": null,
+        "floorPlan": null,
+        "location": null
+      },
+      "rentRange": {
+        "daily": [
+          null
+        ],
+        "monthly": [
+          null
+        ]
+      },
+      "amenities": [
+        "Night Stay allowed for Friend, no extra charge",
+        "Parking Space",
+        "CCTV Camera",
+        "A/C"
+      ],
+      "rules": [
+        "Girls Not Allowed",
+        "Drugs Not Allowed"
+      ],
+      "policies": [
+        "5 Months Before"
+      ],
+      "_id": "",
+      "propType": "Private Hostel",
+      "buildingName": "Swastik Apartment",
+      "flatDetails": "Ground Floor",
+      "streetDetails": "Vaibhav Nagar Phase 1 Road , Katpadi",
+      "city": "Vellore",
+      "pinCode": 632007,
+      "landmark": "Lava Cakes",
+      "bedNo": 1,
+      "balconyNo": 0,
+      "bathroomNo": 1,
+      "description": "Available from July. Monthly Stay is possible. Accessible from Gate 3.",
+      "furnishedStatus": "Fully",
+      "availableFor": "Boys",
+      "similarRoom": 0,
+      "advance": 5,
+      "cotNo": 2,
+      "agentID": "5cba081e4116a300042009f2",
+      "totalTenantsPres": 0,
+      "totalTenantsReq": 1,
+      "__v": 0
+    },
+    {
+      "productImagePath": {
+        "bedroom": [
+          null
+        ],
+        "other": [
+          null
+        ],
+        "exteriorView": "https://s3.ap-south-1.amazonaws.com/sigmatenant/1f0CAUEAWpMMD1STvaPSGmv8iHUlZokG/2019-04-19T19-34-28.435ZFN.jpeg",
+        "livingRoom": null,
+        "kitchen": null,
+        "floorPlan": null,
+        "location": null
+      },
+      "rentRange": {
+        "daily": [
+          null
+        ],
+        "monthly": [
+          null
+        ]
+      },
+      "amenities": [
+        "Security",
+        "House Keeping Available",
+        "A/C"
+      ],
+      "rules": [
+        "Friend staying for a night incurs Rs. 100 charge",
+        "Large Group of Friends not Allowed"
+      ],
+      "policies": [
+        "Any Time Cancellation"
+      ],
+      "_id": "",
+      "propType": "Private Hostel",
+      "buildingName": "Oscar Residency",
+      "flatDetails": "Ground Floor ",
+      "streetDetails": "Vaibhav Nagar, Katpadi",
+      "city": "Vellore",
+      "pinCode": 632014,
+      "landmark": "Opposite Gate 3",
+      "bedNo": 2,
+      "balconyNo": 0,
+      "bathroomNo": 1,
+      "description": "Large spacious room for a Single person.",
+      "furnishedStatus": "Fully",
+      "availableFor": "Both",
+      "similarRoom": 7,
+      "advance": 12,
+      "cotNo": 1,
+      "agentID": "5cba189e15f7470004b5d3ac",
+      "totalTenantsPres": 0,
+      "totalTenantsReq": 2,
+      "__v": 0
+    },
+    {
+      "productImagePath": {
+        "bedroom": [
+          null
+        ],
+        "other": [
+          null
+        ],
+        "exteriorView": "https://s3.ap-south-1.amazonaws.com/sigmatenant/1f0CAUEAWpMMD1STvaPSGmv8iHUlZokG/2019-04-19T19-47-57.758ZFN.jpeg",
+        "livingRoom": null,
+        "kitchen": null,
+        "floorPlan": null,
+        "location": null
+      },
+      "rentRange": {
+        "daily": [
+          null
+        ],
+        "monthly": [
+          null
+        ]
+      },
+      "amenities": [
+        "Security",
+        "House Keeping Available"
+      ],
+      "rules": [
+        "Friend staying for a night incurs Rs. 100 charge",
+        "Large Group of Friends not Allowed"
+      ],
+      "policies": [
+        "Any Time Cancellation"
+      ],
+      "_id": "",
+      "propType": "Private Hostel",
+      "buildingName": "Oscar Residency",
+      "flatDetails": "Ground Floor ",
+      "streetDetails": "Vaibhav Nagar, Katpadi",
+      "city": "Vellore",
+      "pinCode": 632014,
+      "landmark": "Opposite Gate 3",
+      "bedNo": 1,
+      "balconyNo": 0,
+      "bathroomNo": 1,
+      "description": "Large spacious room for a Single person. Non AC rooms.",
+      "furnishedStatus": "Fully",
+      "availableFor": "Both",
+      "similarRoom": 3,
+      "advance": 12,
+      "cotNo": 1,
+      "agentID": "5cba189e15f7470004b5d3ac",
+      "totalTenantsPres": 0,
+      "totalTenantsReq": 3,
+      "__v": 0
+    },
+    {
+      "productImagePath": {
+        "bedroom": [
+          null
+        ],
+        "other": null,
+        "exteriorView": "https://s3.ap-south-1.amazonaws.com/sigmatenant/83CMrovXrqD11gCW3mx9EYT0Xw9Wg9PB/2019-04-19T21-21-06.114ZGaurang Mall.jpg",
+        "livingRoom": "https://s3.ap-south-1.amazonaws.com/sigmatenant/83CMrovXrqD11gCW3mx9EYT0Xw9Wg9PB/2019-04-19T21-21-06.418Zmain image gaurang.jpg",
+        "kitchen": null,
+        "floorPlan": null,
+        "location": "https://s3.ap-south-1.amazonaws.com/sigmatenant/83CMrovXrqD11gCW3mx9EYT0Xw9Wg9PB/2019-04-19T21-21-06.719ZLocation gaurang.jpg"
+      },
+      "rentRange": {
+        "daily": [
+          null
+        ],
+        "monthly": [
+          null
+        ]
+      },
+      "amenities": [
+        "A/C",
+        "WiFi",
+        "Security",
+        "Parking Space",
+        "CCTV Camera"
+      ],
+      "rules": [
+        "No Alcohol",
+        "No Smoking"
+      ],
+      "policies": [
+        "Any time cancellation"
+      ],
+      "_id": "",
+      "propType": "Hotel",
+      "buildingName": "Gaurang Mall",
+      "flatDetails": "SH 59",
+      "streetDetails": "Vaibhav Nagar , Katpadi",
+      "city": "Vellore",
+      "pinCode": 632014,
+      "landmark": "Near flow Cafe",
+      "bedNo": 2,
+      "balconyNo": 1,
+      "bathroomNo": 1,
+      "description": "Both main and 3rd gate is at equal distance. Leisure activities nearby such as gaming, arcade and food eateries.",
+      "furnishedStatus": "Fully",
+      "availableFor": "Both",
+      "similarRoom": 15,
+      "advance": 0,
+      "cotNo": 0,
+      "agentID": "5cba34fb779cef0004e11116",
+      "totalTenantsPres": 0,
+      "totalTenantsReq": 2,
+      "__v": 0
+    },
+    {
+      "productImagePath": {
+        "bedroom": [
+          null
+        ],
+        "other": [
+          null
+        ],
+        "exteriorView": "https://s3.ap-south-1.amazonaws.com/sigmatenant/PJH7WxITjfkS1aeSRxBmeCYuIll5WyZg/2019-04-20T09-58-26.822ZComfort front.jpg",
+        "livingRoom": null,
+        "kitchen": null,
+        "floorPlan": null,
+        "location": null
+      },
+      "rentRange": {
+        "daily": [
+          null
+        ],
+        "monthly": [
+          null
+        ]
+      },
+      "amenities": [
+        "A/C",
+        "WiFi",
+        "Parking Space",
+        "Common Space for TV"
+      ],
+      "rules": [
+        "Outsiders are not allowed to stay at Night"
+      ],
+      "policies": [
+        "1 Month before"
+      ],
+      "_id": "",
+      "propType": "Private Hostel",
+      "buildingName": "Comfort Inn",
+      "flatDetails": " 4th Cross Rd",
+      "streetDetails": "Goldan Nagar,Vaibhav Nagar",
+      "city": "Vellore",
+      "pinCode": 632014,
+      "landmark": "Near 70 to 80 Surplus Men Wear Shop",
+      "bedNo": 1,
+      "balconyNo": 0,
+      "bathroomNo": 1,
+      "description": "Rs. 550 extra for Drinking Water, Cleaning and Wifi. Walkable distance from Gate 2. Canteen is opening shortly. Additional Cot is available at Rs. 3,500/ month.",
+      "furnishedStatus": "Fully",
+      "availableFor": "Boys",
+      "similarRoom": 12,
+      "advance": 2,
+      "cotNo": 1,
+      "agentID": "5cbaca7b8d04c90004a44b1b",
+      "totalTenantsPres": 0,
+      "totalTenantsReq": 1,
+      "__v": 0
+    },
+    {
+      "productImagePath": {
+        "bedroom": [
+          null
+        ],
+        "other": [
+          null
+        ],
+        "exteriorView": "https://s3.ap-south-1.amazonaws.com/sigmatenant/Vi04gQVOfFXE6FRGtVEzN4jpCCKl0XGS/2019-04-27T11-40-33.687ZWhatsApp Image 2019-04-27 at 5.03.32 PM (1).jpeg",
+        "livingRoom": "https://s3.ap-south-1.amazonaws.com/sigmatenant/Vi04gQVOfFXE6FRGtVEzN4jpCCKl0XGS/2019-04-27T11-40-35.029ZWhatsApp Image 2019-04-27 at 4.58.45 PM (1).jpeg",
+        "kitchen": null,
+        "floorPlan": null,
+        "location": null
+      },
+      "rentRange": {
+        "daily": [
+          null
+        ],
+        "monthly": [
+          null
+        ]
+      },
+      "amenities": [
+        "A/C",
+        "Fridge",
+        "Parking",
+        "LED TV",
+        "Generator Provision",
+        "24 Security",
+        "Room Cleaning and Maintenance Free",
+        "Building Shop "
+      ],
+      "rules": [
+        "In time 12 O'Clock "
+      ],
+      "policies": [
+        "1 month before"
+      ],
+      "_id": "",
+      "propType": "Private Hostel",
+      "buildingName": "Citys Towers",
+      "flatDetails": "Golden Nagar",
+      "streetDetails": "Vaibhav Nagar , Katpadi",
+      "city": "Vellore",
+      "pinCode": 632014,
+      "landmark": "Opposite Gate 3",
+      "bedNo": 2,
+      "balconyNo": 0,
+      "bathroomNo": 1,
+      "description": "Extra Charge for every cots Rs. 1000 per person. Near to Gate Number 3. Extra Rs. 500 for the Fridge. Single Person staying charge is Rs. 7000 in 2 Bed.",
+      "furnishedStatus": "Fully",
+      "availableFor": "Both",
+      "similarRoom": 3,
+      "advance": 3,
+      "cotNo": 2,
+      "agentID": "5cc2ef619a207f000457df12",
+      "totalTenantsPres": 0,
+      "totalTenantsReq": 2,
+      "__v": 0
+    },
+    {
+      "productImagePath": {
+        "bedroom": [
+          null
+        ],
+        "other": [
+          null
+        ],
+        "exteriorView": "https://s3.ap-south-1.amazonaws.com/sigmatenant/Vi04gQVOfFXE6FRGtVEzN4jpCCKl0XGS/2019-04-27T12-00-22.639ZWhatsApp Image 2019-04-27 at 5.03.32 PM (1).jpeg",
+        "livingRoom": "https://s3.ap-south-1.amazonaws.com/sigmatenant/Vi04gQVOfFXE6FRGtVEzN4jpCCKl0XGS/2019-04-27T12-00-24.559ZWhatsApp Image 2019-04-27 at 5.25.19 PM.jpeg",
+        "kitchen": null,
+        "floorPlan": null,
+        "location": null
+      },
+      "rentRange": {
+        "daily": [
+          null
+        ],
+        "monthly": [
+          null
+        ]
+      },
+      "amenities": [
+        "Fridge",
+        "Parking",
+        "LED TV",
+        "Generator Provision",
+        "24 Security",
+        "Room Cleaning and Maintenance Free",
+        "Room Cleaning and Maintenance Free"
+      ],
+      "rules": [
+        "In Time 12 O'Clock"
+      ],
+      "policies": [
+        "1 month before"
+      ],
+      "_id": "",
+      "propType": "Private Hostel",
+      "buildingName": "Citys Towers",
+      "flatDetails": "Golden Tower",
+      "streetDetails": "Vaibhav Nagar, Katpadi",
+      "city": "Vellore",
+      "pinCode": 632014,
+      "landmark": "Opposite Gate 3",
+      "bedNo": 1,
+      "balconyNo": 0,
+      "bathroomNo": 1,
+      "description": "Extra Charge for every cots Rs. 2000 per person. Near to Gate Number 3. Extra Rs. 500 for the Fridge. ",
+      "furnishedStatus": "Fully",
+      "availableFor": "Both",
+      "similarRoom": 2,
+      "advance": 3,
+      "cotNo": 1,
+      "agentID": "5cc2ef619a207f000457df12",
+      "totalTenantsPres": 0,
+      "totalTenantsReq": 1,
+      "__v": 0
+    }
+  ]
