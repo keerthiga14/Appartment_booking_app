@@ -1,6 +1,8 @@
 # search_bar
 
-A new Flutter application.
+<img src="assets/images/Screenshot_20200609-143732.png" width = "400" height="800">
+
+<img src="assets/images/Screenshot_20200609-143757.png" width = "400" height="800">
 
 ## Getting Started
 
